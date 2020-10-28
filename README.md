@@ -1,7 +1,9 @@
 # Functional Analysis Note
 
 ## 泛函分析学习手记
-全程记录与个人理解
+写给普通人的泛函分析手记。特色是啰嗦。
+
+为获得最佳体验，推荐在 知乎专栏 [泛函分析学习手记](https://www.zhihu.com/column/c_1298417380200976384) 进行阅读。
 
 > 本作品采用 [知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) 进行许可
 
